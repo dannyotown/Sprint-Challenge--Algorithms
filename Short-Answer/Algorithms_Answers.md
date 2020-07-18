@@ -1,15 +1,19 @@
-#### Please add your answers to the ***Analysis of  Algorithms*** exercises here.
+#### Please add your answers to the **_Analysis of Algorithms_** exercises here.
 
 ## Exercise I
 
-a)
+a) O(N)
 
+b) O(nlogn)
 
-b)
-
-
-c)
+c)O(N)
 
 ## Exercise II
 
+for floors in length of building:
+if egg is broken
+return floor
+else
+continue
 
+O(N)
